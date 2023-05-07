@@ -1,5 +1,7 @@
-rm -rf King
+rm -rf king
 
 git clone https://github.com/KngJANAN404/King
+
 cdKing
-python King.py
+
+python king.py

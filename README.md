@@ -1,7 +1,7 @@
 rm -rf King
 
-git cone https://github.com/KngJANAN404/King
+git clone https://github.com/KngJANAN404/King
 
 cdKing
 
-python King.pyc
+python King.py
